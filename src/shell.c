@@ -24,6 +24,7 @@ int execute(char** args);
 int main(int argc, char* argv[])
 {
 	loop();
+	return 0;
 }
 
 void loop(void)
